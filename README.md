@@ -2,4 +2,4 @@
 
 💻 I’m currently working on AWS CDK, TS, React and CI/CD tools
 
-🟢 BSc in Computing & AWS certified
+🟢 BSc in Computing & AWS cloud certified
